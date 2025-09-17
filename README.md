@@ -73,13 +73,6 @@ This project demonstrates that **open hardware can be both innovative and secure
 
 ---
 
-## Program Timeline Alignment
-
-* **Proposal Submission (Sep 22, 2025):** Initial README with design description (this file).
-* **Final Submission (Nov 3, 2025):** Complete SoC RTL, testbenches, documentation, and demo.
-* **Deliverables:** Final GitHub repo including source code, simulation results, build flow, and video demo.
-
----
 
 ## License
 
